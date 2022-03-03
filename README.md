@@ -1,8 +1,8 @@
 <a href="https://github.com/nocctis/github-readme-stats">
-  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=nocctis&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=juliana-vieira&count_private=true&show_icons=true&theme=radical&hide_border=true" />
 </a>
 <a href=https://github.com/nocctis/github-readme-stats">
-  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocctis&layout=compact&langs_count=5&theme=radical&hide_border=true" />
+  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-vieira&layout=compact&langs_count=5&theme=radical&hide_border=true" />
 </a>
 
 <div style="display: inline_block"><br>
