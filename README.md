@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://juliana-vieira.super.site/)
 
-- 📄 Know about my experiences: [Resume]([https://www.canva.com/design/DAGs6BhN3Zw/NzZRlsXJHB_6ktYVwm94mA](https://www.canva.com/design/DAGs6BhN3Zw/NzZRlsXJHB_6ktYVwm94mA/edit?utm_content=DAGs6BhN3Zw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- 📄 Know about my experiences: [Resume](https://www.canva.com/design/DAGs6BhN3Zw/NzZRlsXJHB_6ktYVwm94mA](https://www.canva.com/design/DAGs6BhN3Zw/NzZRlsXJHB_6ktYVwm94mA/edit?utm_content=DAGs6BhN3Zw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <a href="https://github.com/nocctis/github-readme-stats">
   <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=juliana-vieira&count_private=false&show_icons=true&theme=radical&hide_border=true"/>
