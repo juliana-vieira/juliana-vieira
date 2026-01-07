@@ -5,9 +5,9 @@
 
 - 📄 Know about my experiences: [Resume](https://www.canva.com/design/DAGs6BhN3Zw/NzZRlsXJHB_6ktYVwm94mA/edit?utm_content=DAGs6BhN3Zw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<a href="https://github.com/nocctis/github-readme-stats">
+<a href="https://github.com/juliana-vieira/github-readme-stats">
   <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=juliana-vieira&count_private=false&show_icons=true&theme=radical&hide_border=true"/>
 </a>
-<a href=https://github.com/nocctis/github-readme-stats">
+<a href=https://github.com/juliana-vieira/github-readme-stats">
   <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-vieira&layout=compact&langs_count=4&theme=radical&hide_border=true&count_private=false"/>
 </a>
